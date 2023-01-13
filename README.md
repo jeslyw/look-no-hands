@@ -17,8 +17,8 @@ Works with any app that supports keyboard l-r function
 <li>ESP32 board</li> 
 <li>Foot pedal/button</li> 
 </ul>
-For initial testing/prototyping, a breadboard setup with push button and jumper wires is recommended<br>
-This allows for experimentation with different input pins and wiring points<br>
+For initial testing/prototyping, a breadboard setup with push button and jumper wires is recommended.
+This allows for experimentation with different input pins and wiring points<br><br>
 Connection points: input and ground pins 
 
 ## Setup
